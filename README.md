@@ -4,9 +4,10 @@
 
 O aplicativo converte as páginas do PDF em imagens, aplica a transformação de cor e, em seguida, gera um novo PDF com o conteúdo recolorido.
 
-**[Link para o App Online (se você hospedar em algum lugar como GitHub Pages, Vercel, Netlify)]** *(Opcional: Adicione o link aqui quando estiver online)*
+**[Link para o App Online (se você hospedar em algum lugar como GitHub Pages, Vercel, Netlify)]**
+[https://suntzar.github.io/prismapdf/]
 
-![Captura de Tela do PrismaPDF](print.png)
+![Captura de Tela do PrismaPDF](print.jpg)
 
 ## ✨ Funcionalidades
 
@@ -43,7 +44,7 @@ Esta ferramenta é uma solução prática para contornar a falta de tinta preta 
 
 ## 🚀 Como Usar
 
-1.  Acesse o [PrismaPDF](link_para_seu_app_aqui_se_hospedado).
+1.  Acesse o [PrismaPDF](https://suntzar.github.io/prismapdf/).
 2.  **Selecione o Arquivo:** Clique na área de upload ou arraste e solte seu arquivo PDF.
 3.  **Escolha a Qualidade:** Selecione a qualidade desejada para o arquivo final no menu suspenso.
 4.  **Escolha a Cor:**
