@@ -85,4 +85,4 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para m
 
 ---
 
-Criado com ❤️ por [Seu Nome/Apelido Aqui]
+Criado com ❤️ por L7
