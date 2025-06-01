@@ -6,7 +6,7 @@ O aplicativo converte as páginas do PDF em imagens, aplica a transformação de
 
 **[Link para o App Online (se você hospedar em algum lugar como GitHub Pages, Vercel, Netlify)]** *(Opcional: Adicione o link aqui quando estiver online)*
 
-![Captura de Tela do PrismaPDF](link_para_sua_screenshot.png) *(Opcional, mas altamente recomendado: Adicione uma captura de tela aqui)*
+![Captura de Tela do PrismaPDF](print.png)
 
 ## ✨ Funcionalidades
 
