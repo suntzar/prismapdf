@@ -4,10 +4,9 @@
 
 O aplicativo converte as páginas do PDF em imagens, aplica a transformação de cor e, em seguida, gera um novo PDF com o conteúdo recolorido.
 
-**[Link para o App Online (se você hospedar em algum lugar como GitHub Pages, Vercel, Netlify)]**
-[https://suntzar.github.io/prismapdf/]
+[Link para o PrismaPDF](https://suntzar.github.io/prismapdf/)
 
-![Captura de Tela do PrismaPDF](print.jpg)
+![Captura de Tela do PrismaPDF](print.png)
 
 ## ✨ Funcionalidades
 
